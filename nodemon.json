@@ -1,0 +1,6 @@
+{
+  "watch": ["./server.ts", "./App.module.ts", "./api"],
+  "env": {
+    "NODE_ENV": "development"
+  }
+}
